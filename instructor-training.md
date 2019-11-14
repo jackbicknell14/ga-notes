@@ -13,6 +13,10 @@
 - Housekeeping slide (loos and tea)
 - Doodle poll for one-to-one 15 minutes
 - End of day slack feedback
+- Review plans to cover missing gaps
+- Early check ins and set out expectations that its about personal progress
+- Tell students "Don't compare yourself."
+- Groups of threes, make left over twos into a four.
 
 ## Group work
 - Pair programming
@@ -62,4 +66,7 @@
  - Ask guiding questions: what do you need from other students/instructional team to succeed?
 - Uphold the culture  
  - Pin the house rules to the wall
- - Organise social events 
+ - Organise social events
+
+## Misc.
+- Shuffle the students up by using the 1234 random shuffle because they will
